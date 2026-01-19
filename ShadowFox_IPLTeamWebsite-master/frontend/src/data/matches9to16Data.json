@@ -1,0 +1,255 @@
+[
+  {
+    "matchNumber": 9,
+    "matchId": "ipl2025-m40",
+    "opponent": "Rajasthan Royals",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "date": "2025-04-24T19:30:00.000Z",
+    "time": "19:30 IST",
+    "status": "completed",
+    "matchType": "league",
+    "scores": {
+      "csk": {
+        "runs": 205,
+        "wickets": 5,
+        "overs": "20.0"
+      },
+      "opponent": {
+        "runs": 194,
+        "wickets": 9,
+        "overs": "20.0"
+      }
+    },
+    "result": "Chennai Super Kings won by 11 runs",
+    "playerOfMatch": "Shivam Dube",
+    "tossWinner": "Chennai Super Kings",
+    "tossDecision": "bat",
+    "cskBatting": [
+      {
+        "name": "Ruturaj Gaikwad (c)",
+        "runs": 26,
+        "balls": 23,
+        "fours": 4,
+        "sixes": 0,
+        "strikeRate": 113.04,
+        "out": "c Jaiswal b Archer"
+      },
+      {
+        "name": "Devon Conway",
+        "runs": 70,
+        "balls": 42,
+        "fours": 8,
+        "sixes": 2,
+        "strikeRate": 166.66,
+        "out": "c Jurel b Sandeep"
+      },
+      {
+        "name": "Ajinkya Rahane",
+        "runs": 50,
+        "balls": 27,
+        "fours": 4,
+        "sixes": 3,
+        "strikeRate": 185.18,
+        "out": "c Hetmyer b Sandeep"
+      },
+      {
+        "name": "Shivam Dube",
+        "runs": 23,
+        "balls": 15,
+        "fours": 2,
+        "sixes": 1,
+        "strikeRate": 153.33,
+        "out": "c Parag b Ashwin"
+      },
+      {
+        "name": "Daryl Mitchell",
+        "runs": 1,
+        "balls": 3,
+        "fours": 0,
+        "sixes": 0,
+        "strikeRate": 33.33,
+        "out": "b Ashwin"
+      },
+      {
+        "name": "MS Dhoni (wk)",
+        "runs": 20,
+        "balls": 10,
+        "fours": 4,
+        "sixes": 0,
+        "strikeRate": 200.00,
+        "notOut": true
+      }
+    ],
+    "opponentBatting": [
+      {
+        "name": "Yashasvi Jaiswal",
+        "runs": 49,
+        "balls": 19,
+        "fours": 7,
+        "sixes": 3,
+        "strikeRate": 257.89,
+        "out": "c Conway b Chahar"
+      },
+      {
+        "name": "Sanju Samson (c)",
+        "runs": 16,
+        "balls": 12,
+        "fours": 0,
+        "sixes": 2,
+        "strikeRate": 133.33,
+        "out": "c Gaikwad b Jadeja"
+      },
+      {
+        "name": "Jos Buttler",
+        "runs": 28,
+        "balls": 22,
+        "fours": 3,
+        "sixes": 1,
+        "strikeRate": 127.27,
+        "out": "c Dhoni b Pathirana"
+      },
+      {
+        "name": "Riyan Parag",
+        "runs": 22,
+        "balls": 10,
+        "fours": 2,
+        "sixes": 2,
+        "strikeRate": 220.00,
+        "out": "b Theekshana"
+      },
+      {
+        "name": "Dhruv Jurel (wk)",
+        "runs": 47,
+        "balls": 34,
+        "fours": 3,
+        "sixes": 3,
+        "strikeRate": 138.23,
+        "out": "c Mitchell b Jadeja"
+      },
+      {
+        "name": "Shimron Hetmyer",
+        "runs": 11,
+        "balls": 8,
+        "fours": 1,
+        "sixes": 0,
+        "strikeRate": 137.50,
+        "out": "c Rahane b Chahar"
+      },
+      {
+        "name": "Shubham Dubey",
+        "runs": 12,
+        "balls": 7,
+        "fours": 1,
+        "sixes": 1,
+        "strikeRate": 171.42,
+        "out": "b Pathirana"
+      }
+    ],
+    "cskBowling": [
+      {
+        "name": "Deepak Chahar",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 50,
+        "wickets": 1,
+        "economy": 12.50
+      },
+      {
+        "name": "Tushar Deshpande",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 11.00
+      },
+      {
+        "name": "Matheesha Pathirana",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 4,
+        "economy": 8.25
+      },
+      {
+        "name": "Moeen Ali",
+        "overs": 1,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 0,
+        "economy": 15.00
+      },
+      {
+        "name": "Maheesh Theekshana",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 0,
+        "economy": 7.75
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 2,
+        "economy": 7.75
+      }
+    ],
+    "opponentBowling": [
+      {
+        "name": "Trent Boult",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 33,
+        "wickets": 1,
+        "economy": 8.25
+      },
+      {
+        "name": "Nandre Burger",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 0,
+        "economy": 10.00
+      },
+      {
+        "name": "Avesh Khan",
+        "overs": 2,
+        "maidens": 0,
+        "runs": 36,
+        "wickets": 0,
+        "economy": 18.00
+      },
+      {
+        "name": "Sandeep Sharma",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 45,
+        "wickets": 2,
+        "economy": 11.25
+      },
+      {
+        "name": "Ravichandran Ashwin",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 1,
+        "economy": 7.50
+      },
+      {
+        "name": "Yuzvendra Chahal",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 30,
+        "wickets": 0,
+        "economy": 10.00
+      }
+    ],
+    "cskExtras": {
+      "total": 15
+    },
+    "opponentExtras": {
+      "total": 5
+    }
+  }
+]

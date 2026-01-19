@@ -1,0 +1,247 @@
+[
+  {
+    "matchNumber": 1,
+    "matchId": "ipl2025-m1",
+    "opponent": "Royal Challengers Bengaluru",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "date": "2025-03-22T19:30:00.000Z",
+    "time": "19:30 IST",
+    "status": "completed",
+    "matchType": "league",
+    "scores": {
+      "csk": {
+        "runs": 177,
+        "wickets": 3,
+        "overs": "16.2"
+      },
+      "opponent": {
+        "runs": 174,
+        "wickets": 8,
+        "overs": "20.0"
+      }
+    },
+    "result": "Chennai Super Kings won by 7 wickets",
+    "playerOfMatch": "Ravindra Jadeja",
+    "tossWinner": "Royal Challengers Bengaluru",
+    "tossDecision": "bat",
+    "cskBatting": [
+      {
+        "name": "Ruturaj Gaikwad (c)",
+        "runs": 56,
+        "balls": 31,
+        "fours": 9,
+        "sixes": 2,
+        "strikeRate": 180.65,
+        "out": "c Kohli b Siraj"
+      },
+      {
+        "name": "Devon Conway",
+        "runs": 59,
+        "balls": 36,
+        "fours": 4,
+        "sixes": 3,
+        "strikeRate": 163.89,
+        "notOut": true
+      },
+      {
+        "name": "Ajinkya Rahane",
+        "runs": 10,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 0,
+        "strikeRate": 100.00,
+        "out": "c du Plessis b Dayal"
+      },
+      {
+        "name": "Shivam Dube",
+        "runs": 34,
+        "balls": 16,
+        "fours": 5,
+        "sixes": 1,
+        "strikeRate": 212.50,
+        "out": "c Maxwell b Ferguson"
+      },
+      {
+        "name": "Daryl Mitchell",
+        "runs": 15,
+        "balls": 5,
+        "fours": 2,
+        "sixes": 1,
+        "strikeRate": 300.00,
+        "notOut": true
+      }
+    ],
+    "opponentBatting": [
+      {
+        "name": "Faf du Plessis (c)",
+        "runs": 4,
+        "balls": 5,
+        "fours": 1,
+        "sixes": 0,
+        "strikeRate": 80.00,
+        "out": "c Dhoni b Chahar"
+      },
+      {
+        "name": "Virat Kohli",
+        "runs": 44,
+        "balls": 26,
+        "fours": 5,
+        "sixes": 3,
+        "strikeRate": 169.23,
+        "out": "b Jadeja"
+      },
+      {
+        "name": "Rajat Patidar",
+        "runs": 56,
+        "balls": 31,
+        "fours": 6,
+        "sixes": 4,
+        "strikeRate": 180.65,
+        "out": "c Rahane b Theekshana"
+      },
+      {
+        "name": "Glenn Maxwell",
+        "runs": 6,
+        "balls": 7,
+        "fours": 1,
+        "sixes": 0,
+        "strikeRate": 85.71,
+        "out": "c Dube b Jadeja"
+      },
+      {
+        "name": "Cameron Green",
+        "runs": 30,
+        "balls": 22,
+        "fours": 2,
+        "sixes": 1,
+        "strikeRate": 136.36,
+        "out": "b Pathirana"
+      },
+      {
+        "name": "Dinesh Karthik (wk)",
+        "runs": 12,
+        "balls": 10,
+        "fours": 1,
+        "sixes": 0,
+        "strikeRate": 120.00,
+        "out": "c Gaikwad b Chahar"
+      },
+      {
+        "name": "Mahipal Lomror",
+        "runs": 4,
+        "balls": 3,
+        "fours": 1,
+        "sixes": 0,
+        "strikeRate": 133.33,
+        "out": "b Jadeja"
+      },
+      {
+        "name": "Anuj Rawat",
+        "runs": 6,
+        "balls": 9,
+        "fours": 0,
+        "sixes": 0,
+        "strikeRate": 66.67,
+        "out": "c Mitchell b Deshpande"
+      }
+    ],
+    "cskBowling": [
+      {
+        "name": "Deepak Chahar",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 5.50
+      },
+      {
+        "name": "Tushar Deshpande",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 1,
+        "economy": 8.33
+      },
+      {
+        "name": "Matheesha Pathirana",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 35,
+        "wickets": 1,
+        "economy": 11.67
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 29,
+        "wickets": 3,
+        "economy": 7.25
+      },
+      {
+        "name": "Maheesh Theekshana",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 47,
+        "wickets": 1,
+        "economy": 11.75
+      },
+      {
+        "name": "Daryl Mitchell",
+        "overs": 2,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 0,
+        "economy": 7.00
+      }
+    ],
+    "opponentBowling": [
+      {
+        "name": "Mohammed Siraj",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 1,
+        "economy": 6.75
+      },
+      {
+        "name": "Yash Dayal",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 42,
+        "wickets": 1,
+        "economy": 14.00
+      },
+      {
+        "name": "Lockie Ferguson",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 43,
+        "wickets": 1,
+        "economy": 10.75
+      },
+      {
+        "name": "Cameron Green",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 32,
+        "wickets": 0,
+        "economy": 10.67
+      },
+      {
+        "name": "Glenn Maxwell",
+        "overs": 2.2,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 0,
+        "economy": 13.30
+      }
+    ],
+    "cskExtras": {
+      "total": 3
+    },
+    "opponentExtras": {
+      "total": 6
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "date": "2025-03-22T19:30:00.000Z",
+    "opponent": "Mumbai Indians",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "csk": {
+      "runs": 177,
+      "wickets": 3,
+      "overs": "16.2"
+    },
+    "opponent_score": {
+      "runs": 174,
+      "wickets": 8,
+      "overs": "20.0"
+    },
+    "result": "Chennai Super Kings won by 7 wickets",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "date": "2025-03-25T19:30:00.000Z",
+    "opponent": "Royal Challengers Bengaluru",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "result": null,
+    "status": "upcoming"
+  },
+  {
+    "id": 3,
+    "date": "2025-03-29T19:30:00.000Z",
+    "opponent": "Kolkata Knight Riders",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "result": null,
+    "status": "upcoming"
+  },
+  {
+    "id": 4,
+    "date": "2025-04-02T19:30:00.000Z",
+    "opponent": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",
+    "result": null,
+    "status": "upcoming"
+  },
+  {
+    "id": 5,
+    "date": "2025-04-06T15:30:00.000Z",
+    "opponent": "Rajasthan Royals",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "result": null,
+    "status": "upcoming"
+  },
+  {
+    "id": 6,
+    "date": "2025-04-10T19:30:00.000Z",
+    "opponent": "Delhi Capitals",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "result": null,
+    "status": "upcoming"
+  }
+]

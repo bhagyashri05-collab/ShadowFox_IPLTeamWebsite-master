@@ -256,6 +256,9 @@ We welcome contributions! Here's how to get started:
 - **React Community** - Amazing frameworks and tools
 - **CSK Fan Community** - Feedback and suggestions
 
+  ### Live Demo
+  https://csk-fan-by-bhagyashri.netlify.app/
+
 ### License
 This project is for educational and fan engagement purposes. All team logos, player images, and official data belong to their respective owners.
 
